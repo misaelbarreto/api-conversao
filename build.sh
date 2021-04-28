@@ -1,0 +1,1 @@
+docker image build -t misaelbarreto/api-conversao:v1 .
